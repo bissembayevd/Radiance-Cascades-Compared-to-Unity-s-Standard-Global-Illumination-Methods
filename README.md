@@ -48,5 +48,23 @@ Intel Core i7-13620H
 
 MIT
 
+
+
+
 \## Project Overview
+
+
+
+
 This project compares Radiance Cascades with Unity`s standard global illumination methods.
+
+
+
+
+\## Learning Goals 
+
+
+
+Understand global illumination techniques
+Explore the Radiance Cascades approach
+Practice Git and GitHub collaboration
