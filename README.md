@@ -1,70 +1,25 @@
-# Radiance Cascades Compared to Unity’s Standard Global Illumination Methods
+Radiance Cascades vs. Unity's Standard Global Illumination Methods
 
-DIGRA conference experiment setup
+This repository contains experimental data and results for the paper Comparative Evaluation of Real-Time Global Illumination Methods in Unity URP.
 
+The experiment compares Radiance Cascades with standard global illumination methods in Unity URP, focusing on rendering performance and visual quality.
 
+Contents
+Raw FPS and frame-time data
+Figures used in the paper
+Video comparisons of the tested methods
+Video Demonstration
 
-This repository contains the experimental materials for the paper:
+Watch the comparison on YouTube
 
+Experimental Setup
+Unity Version: 6000.2.12f1
+GPU: NVIDIA RTX 4060 Laptop GPU
+CPU: Intel Core i7-13620H
+Results
 
+The repository provides performance measurements and visual comparisons to help evaluate the differences between the tested global illumination methods.
 
-"Comparative Evaluation of Real-Time Global Illumination Methods in Unity URP"
+License
 
-
-
-\## Contents
-
-
-
-\- Raw FPS and frame time datasets
-
-\- Generated figures used in the paper
-
-\- Render Video recorded for visual comparison can be seen on Youtube Playlist: https://www.youtube.com/watch?v=daDjPJyB86o&list=PLaHv1eGKS6CyZF2IG05RV7KAHvvU5-xIQ
-
-
-
-\## Engine Version
-
-
-
-Unity 6000.2.12f1
-
-
-
-\## Hardware
-
-
-
-NVIDIA RTX 4060 Laptop GPU  
-
-Intel Core i7-13620H
-
-
-
-\## License
-
-
-
-MIT
-
-
-
-
-\## Project Overview
-
-
-
-
-This project compares Radiance Cascades with Unity`s standard global illumination methods.
-
-
-
-
-\## Learning Goals 
-
-
-
-Understand global illumination techniques
-Explore the Radiance Cascades approach
-Practice Git and GitHub collaboration
+MIT License
